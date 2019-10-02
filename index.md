@@ -27,6 +27,10 @@ Note: There may have been a time when an "electrician" was someone who performed
 
 Source: electric, adj. and n., Oxford English Dictionary, Draft Revision Mar. 2008 via [Wikipedia](https://en.wikipedia.org/wiki/Etymology_of_electricity)
 
+## Hacker
+
+Note: First recorded usage of "Hacker" in the tech sense was in 1963. See [this manybutfinite.com blog post](https://manybutfinite.com/post/first-recorded-usage-of-hacker/). Need to investigate further.
+
 ## Information
 
 > The committee published an international standard vocabulary in 1966 (IFIP-ICC Vocabulary of Information Processing, North Holland Publishing, Amsterdam, 1968) that remains, with some modifications, an ISO/IEC standard (http:// www.iso.ch/cate/d7229.html). \[...\] 
