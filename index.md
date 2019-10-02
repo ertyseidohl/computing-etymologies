@@ -4,6 +4,14 @@ title: Computing Etymologies
 ---
 # Computing Etymologies
 
+## Browse
+
+> mid-15c., brousen, "feed on buds, eat leaves or twigs from" trees or bushes, from Old French broster "to sprout, bud," from brost "young shoot, twig, green food fit for cattle or deer," probably from Proto-Germanic \*brust- "bud, shoot," from PIE \*bhreus- "to swell, sprout" (see breast (n.)). It lost its -t in English perhaps on the mistaken notion that the letter was a past participle inflection. Figurative extension to "peruse" (books) is 1870s, American English. Related: Browsed; browsing.
+
+Source: https://www.etymonline.com/word/browse
+
+Note: Would love a non-etymonline source.
+
 ## Cipher
 > There are many theories about how the word "cipher" may have come to mean "encoding".
 
