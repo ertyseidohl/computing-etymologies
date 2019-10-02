@@ -4,7 +4,7 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-#container {
+#container, footer {
   max-width: 960px;
   margin: 1rem auto;
   padding: 1rem;
