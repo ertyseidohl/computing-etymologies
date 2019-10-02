@@ -11,6 +11,12 @@ Source: [Wikipedia: Cypher](https://en.wikipedia.org/wiki/Cipher#Etymology)
 
 Note: The paper Ibrahim A. Al-Kadi's "Cryptography and Data Security: Cryptographic Properties of Arabic" may have more information, but I don't have access.
 
+## Floppy
+
+> To better distribute microprogram code, IBM developed the diskette drive in the late 1960s. In the 1970s, when this storage medium became widely used, marketers must have found the sober name “diskette” too bland, and so coined “floppy” to jazz it up.
+
+Source: Source: [Holmes, Neville. “The Great Term Robbery \[Computer Jargon\].” Computer, vol. 34, no. 5, 2001, pp. 94–96., doi:10.1109/2.920619.](https://eprints.utas.edu.au/1957/1/Cm1My.pdf)
+
 ## Information
 
 > The committee published an international standard vocabulary in 1966 (IFIP-ICC Vocabulary of Information Processing, North Holland Publishing, Amsterdam, 1968) that remains, with some modifications, an ISO/IEC standard (http:// www.iso.ch/cate/d7229.html). \[...\] 
