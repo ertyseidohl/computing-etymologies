@@ -1,2 +1,9 @@
-# computing-etymology
+# Computing Etymologies
+
 Compilation of Etymologies of Computing Terms
+
+## Contributing
+
+TODO
+
+
