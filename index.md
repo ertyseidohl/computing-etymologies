@@ -17,6 +17,16 @@ Note: The paper Ibrahim A. Al-Kadi's "Cryptography and Data Security: Cryptograp
 
 Source: Source: [Holmes, Neville. “The Great Term Robbery \[Computer Jargon\].” Computer, vol. 34, no. 5, 2001, pp. 94–96., doi:10.1109/2.920619.](https://eprints.utas.edu.au/1957/1/Cm1My.pdf)
 
+## Electrician
+
+Note: There may have been a time when an "electrician" was someone who performed stage tricks with electricity (levitating with static elec, etc). Need to investigate further. [Relevant Tweet by @pmg](https://mobile.twitter.com/pmg/status/1110289346534342656)
+
+## Electricity
+
+> The New Latin adjective _electricus_, originally meaning 'of amber', was first used to refer to amber's attractive properties by William Gilbert in his 1600 text De Magnete. The term came from the classical Latin _electrum_, amber, from the Greek ἤλεκτρον (elektron), amber.
+
+Source: electric, adj. and n., Oxford English Dictionary, Draft Revision Mar. 2008 via [Wikipedia](https://en.wikipedia.org/wiki/Etymology_of_electricity)
+
 ## Information
 
 > The committee published an international standard vocabulary in 1966 (IFIP-ICC Vocabulary of Information Processing, North Holland Publishing, Amsterdam, 1968) that remains, with some modifications, an ISO/IEC standard (http:// www.iso.ch/cate/d7229.html). \[...\] 
