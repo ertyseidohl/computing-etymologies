@@ -60,6 +60,40 @@ Note: The paper John Durham Peter's "Information: Notes Toward a Critical Histor
 
 Source: [Holmes, Neville. “The Great Term Robbery \[Computer Jargon\].” Computer, vol. 34, no. 5, 2001, pp. 94–96., doi:10.1109/2.920619.](https://eprints.utas.edu.au/1957/1/Cm1My.pdf)
 
+## Surf
+
+This etymology is contested. I found several references to it being coined by Mark McCahill in a 1992 usenet discussion called "Re: Size Limis for text files?" but [that thread](https://lists.w3.org/Archives/Public/www-talk/1992JanFeb/0023.html) doesn't actually seem to contain the words that McCahill is credited with! 
+
+> \[Gopher Inventor Mark\] McCahill coined the term "surfing the internet." "There is a lot to be said for ... surfing the internet from anywhere that you can find a phone jack," he wrote in February 1992.
+
+Source: Misa, Thomas J. Digital State: the Story of Minnesotas Computing Industry. University of Minnesota Press, 2013.
+
+A verifiable reference to the term "Surfing the Internet" comes from a  June 1992 article by Jean Armour Polly in the Wilson Library Bulletin called "Surfing the Internet. An Introduction."
+
+Source:  Polly, Jean Armour. "Surfing the Internet. An Introduction" Wilson Library Bulletin, v66 n10 p38-42,155 Jun 1992
+
+Polly's title was inspired by the earlier term "Information Surfer", which will be discussed later.
+
+> \[Polly] found her answer on a library-mousepad that had a wave and a surfer as well as the title 'Information Surfer' pictured on it.
+
+Source: Hartmann, Maren. Technologies and Utopias: the cyberflâneur and the Experience of "Being Online". University of Westminster, 2004.
+
+There's an earlier 1991 reference to "net-surfing" by Brendan Kehoe of the Widener Computer Services Department.
+
+> Here's a question: how do other people deal with users that they *think* are doing no-nos around the net?  One of our users had the habit of occasionally going net-surfing and doing the hit-and-run type of attempts (trying 'guest' usually), but I didn't have any real proof--only through other people. (He tended to come on about 2 hours before I'd get up to go to work.)
+
+“Possibly Nefarious Users.” Possibly Nefarious Users, 6 June 1991. https://groups.google.com/forum/#!original/comp.admin.policy/A-JUIeKlPUw/RyMspUG7dkwJ
+
+Interestingly, there seems to be an earlier evolution of the term as well. 
+
+> An earlier version of the web surfing term as applied in the online context was the idea of 'information surfing'. This expression was meant to describe a way of dealing with the beginning information overload \[sic] (the 'wave of information' coming one's way).
+
+> The surfer would be the one who has learned to use the information constructively rather than let it 'roll over' him/her (see Saffo, 1989).
+
+
+
+
+
 ## Technology
 
 > The word _technology_, which joined the Greek root, _techne_ (an art or craft) with the suffix _ology_ (a branch of learning), first entered the English language in the seventeenth century. At that time, in keeping with its etymology, a _technology_ was a branch of learning, or discourse, or treatise concerned with the mechanic arts. As Eric Schatzberg has demonstrated in a seminal essay, the word then referred to a field of study, not an object of study. But the word, even in that now archaic sense, was a rarity in nineteenth-century America. By 1861, to be sure, it was accorded a somewhat greater prominence by the founders of the Massachusetts Institute of Technology, but they also were invoking the limited sense of the term to mean higher technical education. As for technology in the now familiar sense of the word — the mechanic arts collectively — it did not catch on in America until around 1900, when a few influential writers, notably Thorstein Veblen and Charles Beard, responding to German usage in the social sciences, accorded technology a pivotal role in shaping modern industrial society. But even then, the use of the word remained largely confined to academic and intellectual circles; it did not gain truly popular currency until the 1930s.
