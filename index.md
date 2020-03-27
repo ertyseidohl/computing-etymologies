@@ -21,7 +21,7 @@ Sources:
 
 From [Blog](#Blog).
 
-> At the time everyone said "weblog" and "weblogger" so picking up [Merholz's] pronounciation, [Evan Williams](https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)) came up with the name "Blogger" for our product. When we set about to write the copy for the site, we used the word "blog" for every instance of "weblog." There was no other service at the time that used that term. When we added hosting, we named it "Blogspot" because it was a spot for one's blog. (Hourihan)
+> At the time everyone said "weblog" and "weblogger" so picking up [Merholz's] pronounciation, [Evan Williams](https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)) came up with the name "Blogger" for our product. When we set about to write the copy for the site, we used the word "blog" for every instance of "weblog." There was no other service at the time that used that term. When we added hosting, we named it "Blogspot" because it was a spot for one's blog. (Hourihan, 2008)
 
 Sources:
 
@@ -75,7 +75,7 @@ In their original form, these definitions read as follows:
 > These two clear and distinctive definitions conform reasonably with traditional usage. Contrast them with the corresponding definitions from The New International Webster’s Pocket Computer Dictionary of the English Language (Trident Press International, Naples, Fla., 1998, ISBN 1-888777-54-0):
 > * **Data.** (sing. datum) Information, as that processed by a computer.
 > * **Information.** Any data that can be stored, retrieved, and manipulated by a computer.
-> These latter definitions are even murkier than the book’s title. Completely confused, they conflict with the words’ traditional usage. Although the worse dictionaries typically maul these definitions, the better dictionaries treat them almost as roughly.
+> These latter definitions are even murkier than the book’s title. Completely confused, they conflict with the words’ traditional usage. Although the worse dictionaries typically maul these definitions, the better dictionaries treat them almost as roughly. (Holmes, 2001)
 
 Sources
 
@@ -85,7 +85,7 @@ Note: The paper John Durham Peter's "Information: Notes Toward a Critical Histor
 
 ## Sort (Incomplete)
 
-> The computing profession, for instance, uses the verb to sort to mean to order or to sequence. The dictionary defines sort as “to arrange according to sort, kind, or class”—a meaning too useful to lose, surely. This distortion has an historical foundation, however: When data processors kept data on punched cards, they used repetitive sorting—in the true sense of the word—to put a card file in any desired  sequence. Thus, sequencing on a fivedigit ID number would take five passes of the card file through a sorter, moving from low-order digit to high-order digit. Unfortunately, when magnetic tape replaced punched cards, the term “sorting” assumed the meaning “sequencing,” even though the process no longer involved sorting, but rather progressive merging of subsequences. When using four tape drives, a tape “sort” would typically halve the number of subsequences with each merge pass, then stop when it arrived at a single sequence.
+> The computing profession, for instance, uses the verb to sort to mean to order or to sequence. The dictionary defines sort as “to arrange according to sort, kind, or class”—a meaning too useful to lose, surely. This distortion has an historical foundation, however: When data processors kept data on punched cards, they used repetitive sorting—in the true sense of the word—to put a card file in any desired  sequence. Thus, sequencing on a fivedigit ID number would take five passes of the card file through a sorter, moving from low-order digit to high-order digit. Unfortunately, when magnetic tape replaced punched cards, the term “sorting” assumed the meaning “sequencing,” even though the process no longer involved sorting, but rather progressive merging of subsequences. When using four tape drives, a tape “sort” would typically halve the number of subsequences with each merge pass, then stop when it arrived at a single sequence. (Holmes, 2001)
 
 Sources:
 - Holmes, N. (2001). The great term robbery [computer jargon]. Computer, 34(5), 94–96. doi: 10.1109/2.920619. Retrieved from https://eprints.utas.edu.au/1957/1/Cm1My.pdf
@@ -94,31 +94,31 @@ Sources:
 
 This etymology is contested. I found several references to it being coined by Mark McCahill in a 1992 usenet discussion called "Re: Size Limis for text files?" but [that thread](https://lists.w3.org/Archives/Public/www-talk/1992JanFeb/0023.html) doesn't actually seem to contain the words that McCahill is credited with!
 
-> \[Gopher Inventor Mark\] McCahill coined the term "surfing the internet." "There is a lot to be said for ... surfing the internet from anywhere that you can find a phone jack," he wrote in February 1992. (Misa)
+> \[Gopher Inventor Mark\] McCahill coined the term "surfing the internet." "There is a lot to be said for ... surfing the internet from anywhere that you can find a phone jack," he wrote in February 1992. (Misa, 2013)
 
 A verifiable reference to the term "Surfing the Internet" comes from a  June 1992 article by Jean Armour Polly in the Wilson Library Bulletin called "Surfing the Internet. An Introduction."
 
 Polly's title was inspired by the earlier term "Information Surfer", which will be discussed later.
 
-> \[Polly] found her answer on a library-mousepad that had a wave and a surfer as well as the title 'Information Surfer' pictured on it. (Hartmann)
+> \[Polly] found her answer on a library-mousepad that had a wave and a surfer as well as the title 'Information Surfer' pictured on it. (Hartmann, 2004)
 
 There's an earlier 1991 reference to "net-surfing" by Brendan Kehoe of the Widener Computer Services Department.
 
-> Here's a question: how do other people deal with users that they *think* are doing no-nos around the net?  One of our users had the habit of occasionally going net-surfing and doing the hit-and-run type of attempts (trying 'guest' usually), but I didn't have any real proof--only through other people. (He tended to come on about 2 hours before I'd get up to go to work.) (Kehoe)
+> Here's a question: how do other people deal with users that they *think* are doing no-nos around the net?  One of our users had the habit of occasionally going net-surfing and doing the hit-and-run type of attempts (trying 'guest' usually), but I didn't have any real proof--only through other people. (He tended to come on about 2 hours before I'd get up to go to work.) (Kehoe, 1991)
 
 Interestingly, there seems to be an earlier evolution of the term as well.
 
 > An earlier version of the web surfing term as applied in the online context was the idea of 'information surfing'. This expression was meant to describe a way of dealing with the beginning information overload \[sic] (the 'wave of information' coming one's way).
 
-> The surfer would be the one who has learned to use the information constructively rather than let it 'roll over' him/her (see Saffo, 1989). (Hartmann)
+> The surfer would be the one who has learned to use the information constructively rather than let it 'roll over' him/her (see Saffo, 1989). (Hartmann, 2004)
 
 Hartmann points us to Saffo's 1989 column "Information Surfing" in _Personal Computing_, which reads:
 
-> Still, I am an optimist when it comes to the future. If information is a wave about to engulf us, the solution is to become “information surfers” — individuals who thrive in a world of hyperabundant information. (Saffo, 1989)
+> Still, I am an optimist when it comes to the future. If information is a wave about to engulf us, the solution is to become “information surfers” — individuals who thrive in a world of hyperabundant information. (Saffo, 1989/1999)
 
 Saffo includes a note at the bottom of this article from ten years later in 1999:
 
-> When I submitted this column, I thought I had discovered an obscure new term, “information surfing”. Some years later, I happened across a passage by Marshall McLuhan in which he spoke of surfing data “like Duke Kahanamoku on a surfboard.” Nothing, it seems, is ever new! (Saffo, 1999)
+> When I submitted this column, I thought I had discovered an obscure new term, “information surfing”. Some years later, I happened across a passage by Marshall McLuhan in which he spoke of surfing data “like Duke Kahanamoku on a surfboard.” Nothing, it seems, is ever new! (Saffo, 1989/1999)
 
 [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) is credited with coining the term "surf" in the electronic/digital context. From his 1962 book _The Gutenberg Galaxy_:
 
@@ -126,7 +126,7 @@ Saffo includes a note at the bottom of this article from ten years later in 1999
 
 As for the actual word "Surf", the OED has:
 
-> Etymology: Probably a variant or alteration of suff n., perhaps after surge n. (OED)
+> Etymology: Probably a variant or alteration of suff n., perhaps after surge n. (OED, n.d.)
 
 Which has the earliest usage for the noun listed in 1606, and the verb form from 1917, but this is incorrect: their quote says "To the beach for a surf and a sun bath.", but the actual quote is "to the beach for a surf and sun bath". (The ABC Pathfinder Railway Guide)
 
@@ -134,7 +134,7 @@ Note: This needs more research. The next OED list of the usage of the verb "surf
 
 The first use of surfing on something other than water was in the April 1985 edition of Time magazine:
 
-> "Cars move slowly past the crowd, and when the passengers get restless they van surf (dance on roofs)."
+> "Cars move slowly past the crowd, and when the passengers get restless they van surf (dance on roofs)." (No Source)
 
 Note: I can't get a copy of this to verify.
 
@@ -155,7 +155,7 @@ Sources:
 
 - Polly, Jean Armour. "Surfing the Internet. An Introduction" Wilson Library Bulletin, v66 n10 p38-42,155 Jun 1992
 
-- Saffo, P. (1989, July). Information Surfing. Retrieved from https://www.saffo.com/essays/information-surfing/
+- Saffo, P. (1989, July. With a note from 1999). Information Surfing. Retrieved from https://www.saffo.com/essays/information-surfing/
 
 ## Technology
 
@@ -166,29 +166,29 @@ Sources:
 
 ## Weblog
 
-> The Blog Herald cites the origins of the term weblog to G. Raikundalia & M. Rees, two lecturers from Bond University on the Gold Coast. The term was first used in a paper titled "Exploiting the World-Wide Web for Electronic Meeting Document Analysis and Management." (Beal)
+> The Blog Herald cites the origins of the term weblog to G. Raikundalia & M. Rees, two lecturers from Bond University on the Gold Coast. The term was first used in a paper titled "Exploiting the World-Wide Web for Electronic Meeting Document Analysis and Management." (Beal, 2014)
 
 However:
 
-> Interestingly the term “Weblog” is not featured on the remaining record of the paper, which is now hosted at the Charles Sturt University website, but is featured in its correct context in a Usenet post promoting the papers delivery at Bond posted on August 6, 1995. (Riley)
+> Interestingly the term “Weblog” is not featured on the remaining record of the paper, which is now hosted at the Charles Sturt University website, but is featured in its correct context in a Usenet post promoting the papers delivery at Bond posted on August 6, 1995. (Riley, 2005)
 
 [The usenet post in question](https://groups.google.com/forum/#!msg/news.announce.conferences/psRH3JVJJw0/8JnwZAU326QJ;context-place=forum/news.announce.conferences), which Rees confirms is the first use:
 
-> We used the term WebLog in the title of our paper presented on 21 August 1995 at the QCHI’95 Symposium held at Bond and organised by Sandrine Balbo and myself. Sandrine sent the QCHI’95 notice to the news.announce.conferences group on Usenet on 6 August 1995. (Rees).
+> We used the term WebLog in the title of our paper presented on 21 August 1995 at the QCHI’95 Symposium held at Bond and organised by Sandrine Balbo and myself. Sandrine sent the QCHI’95 notice to the news.announce.conferences group on Usenet on 6 August 1995. (Rees, 2012).
 
 Continuing,
 
-> Popular use of the term Weblog as we know it today is from Jorn Barger of the Weblog Robot Wisdom (robotwisdom.com) in December 1997. (Beal)
+> Popular use of the term Weblog as we know it today is from Jorn Barger of the Weblog Robot Wisdom (robotwisdom.com) in December 1997. (Beal, 2014)
 
 An article in the Star-Telegram from 1999 (using "Web log") writes:
 
-> One urban legend has it that the Netscape creator Marc Andreessen started the first Web log, and Barger offers a link to Andreessen's 1993 Web musings. (Katz)
+> One urban legend has it that the Netscape creator Marc Andreessen started the first Web log, and Barger offers a link to Andreessen's 1993 Web musings. (Katz, 1999)
 
 ([Link to Andreessen's 1993 blog](https://web.archive.org/web/19961220064810/http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/Docs/old-whats-new/whats-new-0693.html)).
 
 However:
 
-> Tim Berners-Lee, father of the World Wide Web, first posted a web page in 1992 at CERN that kept a list of all new web sites as they come online. (Riley)
+> Tim Berners-Lee, father of the World Wide Web, first posted a web page in 1992 at CERN that kept a list of all new web sites as they come online. (Riley, 2005)
 
 However, despite inventing the format, neither Berners-Lee or Andreessen seem to have used the term "web log" or "weblog".
 
@@ -203,9 +203,7 @@ Sources:
 
 ## Wiki
 
-> Wiki wiki is the first Hawai'ian term I learned on my first visit to the islands. The airport counter agent directed me to take the wiki wiki bus between terminals. I said what? He explained that wiki wiki meant quick. I was to find the quick bus. I did pick up a book about the language before my return home. I learned many things from this but wiki wiki is the word that sticks the most. (Cunningham)
-
-> I thought "wiki wiki web" was more fun to say than "quick web", no mater what pronunciation is used. The name "quick web" would have been appropriate for a system that makes web pages quickly. Microsoft's "quick basic" was a precedent for such a name. I chose to call the technology WikiWikiWeb. I used exactly this spacing and capitalization because the technology would then recognize the term as a hyperlink. I consider WikiWikiWeb to be the proper name of the concept, of which Wiki or wiki is an abbreviation. (Cunningham)
+> Wiki wiki is the first Hawai'ian term I learned on my first visit to the islands. The airport counter agent directed me to take the wiki wiki bus between terminals. I said what? He explained that wiki wiki meant quick. I was to find the quick bus. I did pick up a book about the language before my return home. I learned many things from this but wiki wiki is the word that sticks the most. \[...\] I thought "wiki wiki web" was more fun to say than "quick web", no mater what pronunciation is used. The name "quick web" would have been appropriate for a system that makes web pages quickly. Microsoft's "quick basic" was a precedent for such a name. I chose to call the technology WikiWikiWeb. I used exactly this spacing and capitalization because the technology would then recognize the term as a hyperlink. I consider WikiWikiWeb to be the proper name of the concept, of which Wiki or wiki is an abbreviation. (Cunningham, 2003)
 
 Sources:
 - Cunningham, Ward. “Correspondence on TheEtymology of Wiki.” Cunningham & Cunningham, Inc., Nov. 2003, http://c2.com/doc/etymology.html.
