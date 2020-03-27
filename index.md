@@ -27,7 +27,9 @@ Sources:
 
 - Hourihan, M. (2008, April 18). Origins of "Blog" and "Blogger". Retrieved from https://web.archive.org/web/20141103083257/http://www.viralblogcontent.com/Origins_of__22Blog_22_and__22Blogger_22.pdf
 
-## Browse (Incomplete)
+## Browse
+
+(Incomplete)
 
 > mid-15c., brousen, "feed on buds, eat leaves or twigs from" trees or bushes, from Old French broster "to sprout, bud," from brost "young shoot, twig, green food fit for cattle or deer," probably from Proto-Germanic \*brust- "bud, shoot," from PIE \*bhreus- "to swell, sprout" (see breast (n.)). It lost its -t in English perhaps on the mistaken notion that the letter was a past participle inflection. Figurative extension to "peruse" (books) is 1870s, American English. Related: Browsed; browsing.
 
@@ -35,24 +37,33 @@ Source: https://www.etymonline.com/word/browse
 
 Note: Would love a non-etymonline source.
 
-## Cipher (Incomplete)
+## Cipher
+
+(Incomplete)
+
 > There are many theories about how the word "cipher" may have come to mean "encoding".
 
 Source: [Wikipedia: Cypher](https://en.wikipedia.org/wiki/Cipher#Etymology)
 
 Note: The paper Ibrahim A. Al-Kadi's "Cryptography and Data Security: Cryptographic Properties of Arabic" may have more information, but I don't have access.
 
-## Electrician (Incomplete)
+## Electrician
+
+(Incomplete)
 
 Note: There may have been a time when an "electrician" was someone who performed stage tricks with electricity (levitating with static elec, etc). Need to investigate further. [Relevant Tweet by @pmg](https://mobile.twitter.com/pmg/status/1110289346534342656)
 
-## Electricity (Incomplete)
+## Electricity
+
+(Incomplete)
 
 > The New Latin adjective _electricus_, originally meaning 'of amber', was first used to refer to amber's attractive properties by William Gilbert in his 1600 text De Magnete. The term came from the classical Latin _electrum_, amber, from the Greek ἤλεκτρον (elektron), amber.
 
 Source: electric, adj. and n., Oxford English Dictionary, Draft Revision Mar. 2008 via [Wikipedia](https://en.wikipedia.org/wiki/Etymology_of_electricity)
 
-## Floppy (Incomplete)
+## Floppy
+
+(Incomplete)
 
 > To better distribute microprogram code, IBM developed the diskette drive in the late 1960s. In the 1970s, when this storage medium became widely used, marketers must have found the sober name “diskette” too bland, and so coined “floppy” to jazz it up.
 
@@ -62,11 +73,15 @@ Sources:
 
 Note: would like to further explore this one.
 
-## Hacker (Incomplete)
+## Hacker
+
+(Incomplete)
 
 Note: First recorded usage of "Hacker" in the tech sense was in 1963. See [this manybutfinite.com blog post](https://manybutfinite.com/post/first-recorded-usage-of-hacker/). Need to investigate further.
 
-## Information (Incomplete)
+## Information
+
+(Incomplete)
 
 > The committee published an international standard vocabulary in 1966 (IFIP-ICC Vocabulary of Information Processing, North Holland Publishing, Amsterdam, 1968) that remains, with some modifications, an ISO/IEC standard (http://www.iso.ch/cate/d7229.html). \[...\]
 In their original form, these definitions read as follows:
@@ -83,7 +98,39 @@ Sources
 
 Note: The paper John Durham Peter's "Information: Notes Toward a Critical History", may have more information, but I don't have access.
 
-## Sort (Incomplete)
+## Receive
+
+(Incomplete)
+
+> Middle English, from Anglo-French receivre, from Latin recipere, from re- + capere to take. [First usage of the] verb: 14th century. (Merriam-Webster)
+
+Interestingly, [Send](#Send) comes from Germanic, while Receive comes from Anglo-French, but the two terms are often used adjacently.
+
+Sources
+
+- Merriam-Webster. (n.d.). Receive. In Merriam-Webster.com dictionary. Retrieved March 26, 2020, from https://www.merriam-webster.com/dictionary/receive
+
+## Send
+
+(Incomplete)
+
+> Middle English, from Old English sendan. [First usage of the] verb: before the 12th century (Merriam-Webster)
+
+> Old English sendan "send, send forth; throw, impel," from Proto-Germanic \*sond- \[...\], causative form of base \*sinþan, denoting "go, journey" \[...\], from PIE root \*sent- "to head for, go" (Etymonline)
+
+See [Receive](#Receive)
+
+Sources
+
+- Merriam-Webster. (n.d.). Send. In Merriam-Webster.com dictionary. Retrieved March 26, 2020, from https://www.merriam-webster.com/dictionary/send
+
+- Etymonline. (n.d.) send (v.). Retrieved from https://www.etymonline.com/word/send
+
+Note: Would like a non-etymonline source.
+
+## Sort
+
+(Incomplete)
 
 > The computing profession, for instance, uses the verb to sort to mean to order or to sequence. The dictionary defines sort as “to arrange according to sort, kind, or class”—a meaning too useful to lose, surely. This distortion has an historical foundation, however: When data processors kept data on punched cards, they used repetitive sorting—in the true sense of the word—to put a card file in any desired  sequence. Thus, sequencing on a fivedigit ID number would take five passes of the card file through a sorter, moving from low-order digit to high-order digit. Unfortunately, when magnetic tape replaced punched cards, the term “sorting” assumed the meaning “sequencing,” even though the process no longer involved sorting, but rather progressive merging of subsequences. When using four tape drives, a tape “sort” would typically halve the number of subsequences with each merge pass, then stop when it arrived at a single sequence. (Holmes, 2001)
 
@@ -210,8 +257,6 @@ Sources:
 
 # Words to Look Up
 
-- send
-- receive
 - troll
 - broadcast
 - IP address
