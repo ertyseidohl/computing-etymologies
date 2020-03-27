@@ -7,19 +7,23 @@ title: Computing Etymologies
 
 ## Blog
 
-From web+blog &rarr; weblog &rarr; blog. See "weblog"
+From web+blog &rarr; weblog &rarr; blog. See (Weblog)[#Weblog]
 
 Peter Merholz is credited with coining this term, he first uses it in a blog post on May 28, 1999., and announces the new word in a sidebar published sometime in April:
 
 > I've decided to pronounce the word "weblog" as wee'- blog. Or "blog" for short.
 
-Source: Merholz, P. (1999). Sidebar "For What It's Worth". Retrieved from http://web.archive.org/web/19991013021124/http://peterme.com/index.html
+Sources:
+- Merholz, P. (1999). Sidebar "For What It's Worth". Retrieved from http://web.archive.org/web/19991013021124/http://peterme.com/index.html
 
 ## Blogger
 
-From Blog.
+From [Blog](#Blog).
 
-Source [](http://www.rebeccablood.net/essays/weblog_history.html)
+> At the time everyone said "weblog" and "weblogger" so picking up his pronounciation, [Evan Williams](https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)) came up with the name "Blogger" for our product. When we set about to write the copy for the site, we used the word "blog" for every instance of "weblog." There was no other service at the time that used that term. When we added hosting, we named it "Blogspot" because it was a spot for one's blog. (Hourihan)
+
+Sources:
+- Hourihan, M. (2008, April 18). Origins of "Blog" and "Blogger". Retrieved from https://web.archive.org/web/20141103083257/http://www.viralblogcontent.com/Origins_of__22Blog_22_and__22Blogger_22.pdf
 
 ## Browse
 
