@@ -211,6 +211,19 @@ Sources:
 Sources:
 - Marx, L. (2010). Technology: The Emergence of a Hazardous Concept. Technology and Culture, 51(3), 561–577. doi: 10.1353/tech.2010.0009. Retrieved from http://faculty.georgetown.edu/irvinem/theory/Marx-TC-2010-51.pdf
 
+## Troll
+
+> Lemme see what I can do.  Maybe after I post it, we could go trolling some more and see what happens. (Chan, 1992)
+
+> Pilots call the technique "Trolling for Migs" (Saar, 1972)
+
+Sources:
+
+- Saar, J. (1972, February 4). 'Either you do what they want, or you go turn in your wings'. Time, 28.  Retrieved from https://books.google.com/books?id=EkAEAAAAMBAJ&pg=PA28
+
+- Chan, T. (1992, October 8). Retrieved from https://groups.google.com/forum/#!msg/alt.folklore.urban/iNal2CeYkSw/7Mwdly7upPkJ
+
+
 ## Weblog
 
 > The Blog Herald cites the origins of the term weblog to G. Raikundalia & M. Rees, two lecturers from Bond University on the Gold Coast. The term was first used in a paper titled "Exploiting the World-Wide Web for Electronic Meeting Document Analysis and Management." (Beal, 2014)
@@ -257,7 +270,6 @@ Sources:
 
 # Words to Look Up
 
-- troll
 - broadcast
 - IP address
 - domain name
@@ -308,4 +320,5 @@ Sources:
 - toolchain
 - broker
 - security controls
-
+- tilde
+- flaming (flame war)
