@@ -102,13 +102,17 @@ Note: The paper John Durham Peter's "Information: Notes Toward a Critical Histor
 
 First used in regard to computing by Christine Peterson in 1998.
 
->The problem with the main earlier label, "free software," was not its political connotations, but that—to newcomers—its seeming focus on price is distracting. A term was needed that focuses on the key issue of source code and that does not immediately confuse those new to the concept. The first term that came along at the right time and fulfilled these requirements was rapidly adopted: open source. This term had long been used in an "intelligence" (i.e., spying) context, but to my knowledge, use of the term with respect to software prior to 1998 has not been confirmed. (Peterson, 2018)
+> I am the originator of the term "open source software" and came up with it while executive director at Foresight Institute. (Peterson, 2018)
+
+However, the term "open source" was not new:
+
+> This term had long been used in an "intelligence" (i.e., spying) context \[...\] (Peterson, 2018)
 
 The term was in use w.r.t intelligence as early as 1829:
 
-> but he perceived there was yet the open source of intelligence to be resorted to (and the onle one perhaps through which truth was attainable), namely, the object himself. (Bernard, 1829)
+> but he perceived there was yet the open source of intelligence to be resorted to (and the only one perhaps through which truth was attainable), namely, the object himself. (Bernard, 1829)
 
-Finally, the earliest usage of the term (with "open" as an adjective) that I could find in Google Books is from a 1685 manual on how to "draw forth waters from betwixt the flesh and the skin":
+Finally, the earliest usage of the term (with "open" as an adjective) found in Google Books is from a 1685 manual on how to "draw forth waters from betwixt the flesh and the skin":
 
 >  it flow'd forth in a plentifull Stream as from an open Source, till it was drawn from the whole Legg both above and beneath. (Basset & Crooke, 1685)
 
@@ -270,7 +274,7 @@ An article in the Star-Telegram from 1999 (using "Web log") writes:
 
 ([Link to Andreessen's 1993 blog](https://web.archive.org/web/19961220064810/http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/Docs/old-whats-new/whats-new-0693.html)).
 
-However:
+Contrary to this urban legend:
 
 > Tim Berners-Lee, father of the World Wide Web, first posted a web page in 1992 at CERN that kept a list of all new web sites as they come online. (Riley, 2005)
 
