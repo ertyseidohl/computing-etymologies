@@ -7,7 +7,7 @@ title: Computing Etymologies
 
 ## Blog
 
-From web+blog &rarr; weblog &rarr; blog. See (Weblog)[#Weblog]
+From web+blog &rarr; weblog &rarr; blog. See [Weblog](#Weblog)
 
 Peter Merholz is credited with coining this term, he first uses it in a blog post on May 28, 1999., and announces the new word in a sidebar published sometime in April:
 
