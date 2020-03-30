@@ -92,11 +92,35 @@ In their original form, these definitions read as follows:
 > * **Information.** Any data that can be stored, retrieved, and manipulated by a computer.
 > These latter definitions are even murkier than the book’s title. Completely confused, they conflict with the words’ traditional usage. Although the worse dictionaries typically maul these definitions, the better dictionaries treat them almost as roughly. (Holmes, 2001)
 
-Sources
+Sources:
 
 - Holmes, N. (2001). The great term robbery [computer jargon]. Computer, 34(5), 94–96. doi: 10.1109/2.920619. Retrieved from https://eprints.utas.edu.au/1957/1/Cm1My.pdf
 
 Note: The paper John Durham Peter's "Information: Notes Toward a Critical History", may have more information, but I don't have access.
+
+## Open Source
+
+First used in regard to computing by Christine Peterson in 1998.
+
+>The problem with the main earlier label, "free software," was not its political connotations, but that—to newcomers—its seeming focus on price is distracting. A term was needed that focuses on the key issue of source code and that does not immediately confuse those new to the concept. The first term that came along at the right time and fulfilled these requirements was rapidly adopted: open source. This term had long been used in an "intelligence" (i.e., spying) context, but to my knowledge, use of the term with respect to software prior to 1998 has not been confirmed. (Peterson, 2018)
+
+The term was in use w.r.t intelligence as early as 1829:
+
+> but he perceived there was yet the open source of intelligence to be resorted to (and the onle one perhaps through which truth was attainable), namely, the object himself. (Bernard, 1829)
+
+Finally, the earliest usage of the term (with "open" as an adjective) that I could find in Google Books is from a 1685 manual on how to "draw forth waters from betwixt the flesh and the skin":
+
+>  it flow'd forth in a plentifull Stream as from an open Source, till it was drawn from the whole Legg both above and beneath. (Basset & Crooke, 1685)
+
+Sources:
+
+- Peterson, C. (2018, February 1). How I coined the term 'open source'. Retrieved from https://opensource.com/article/18/2/coining-term-open-source-software.
+
+- Basset, T., & Crooke, W. (1685). p. 173. London practice of physick, or, the whole practical part of physick. London. Retrieved from https://books.google.com/books?id=eY5mAAAAcAAJ&pg=PA173.
+
+- Bernard, W. B. (1829). p. 261. The Freebooter's Bride; Or, The Black Pirate of the Mediterranean: Including the Mystery of the Morescoes; a Romance, Etc. (Vol 1.) A. K. Newman and Co. London. Retrieved from https://books.google.com/books?id=mBtN7Par6tEC&pg=PA261.
+
+Note: Because of the nonstandard printing practices of 1685, the citation for (Basset & Crooke, 1685) may be incorrect. Someone else should take a look.
 
 ## Receive
 
@@ -322,3 +346,4 @@ Sources:
 - security controls
 - tilde
 - flaming (flame war)
+- bless
