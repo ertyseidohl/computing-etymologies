@@ -7,7 +7,7 @@ title: Computing Etymologies
 
 ## Blog
 
-From web+blog &rarr; weblog &rarr; blog. See [Weblog](#Weblog)
+From web+blog &rarr; weblog &rarr; blog. See [Weblog](#weblog)
 
 Peter Merholz is credited with coining this term, he first uses it in a blog post on May 28, 1999., and announces the new word in a sidebar published sometime in April:
 
@@ -26,6 +26,37 @@ From [Blog](#Blog).
 Sources:
 
 - Hourihan, M. (2008, April 18). Origins of "Blog" and "Blogger". Retrieved from https://web.archive.org/web/20141103083257/http://www.viralblogcontent.com/Origins_of__22Blog_22_and__22Blogger_22.pdf
+
+## Broadcast
+
+Broadcast comes from a farming technique regarding the sowing of seeds.
+
+We see the first sense of "broadcast" in the radio / television sense (that is, a single electronic message recieved by many) in an article in The Electrician from 1898:
+
+> In other words, in order to obtain only one little erg of energy on the reveiving surface no less than 3.5x10^8 ergs, or 35 watt-seconds (joules) of energy, would have to be scattered broadcast from the center. (No Author Listed, 1898)
+
+The idea of "broadcast" via multiple electronic messages shows up earlier, in 1886:
+
+> sent broadcast through the country by multiple telegraph. (Editorial Dept., 1886)
+
+And multiple print messages even earlier, in 1877:
+
+> In the case of the estimates sent broadcast by the Department of Agriculture, in its latest annual report, the extent has been sadly underestimated.
+
+The earliest printed form of "broadcast" is in a farming manual from 1744:
+
+> \[...\] for, when Oats are sown in the random or broadcast Way, there is no more Mold allowed their Roots than what the Harrows and Roll give them; (Ellis, 1744)
+
+Sources:
+- Editorial Dept. (1886). Medical Advertising. Saint Lous Medical and Surgical Journal, 51(Jul-Dec), 334. Retrieved from https://babel.hathitrust.org/cgi/pt?id=mdp.39015070278273&view=1up&seq=340.
+
+- Ellis, W. (1744). The Modern Husbandman: Or, The Practice of Farming, as is Now Carried on by the Most Accurate Farmers in Several Counties of England. London: T. Osborne and M. Cooper. Retreived from https://books.google.com/books?id=JTBAAQAAMAAJ&pg=PA49.
+
+- No Author Listed. (1898). Wireless Telegraphy. The Electrician, 41, 83. Retrieved from https://babel.hathitrust.org/cgi/pt?id=njp.32101050973286&view=1up&seq=111.
+
+- Strahorn, R. E. (1877). The Hand-book of Wyoming and guide to the Black Hills and Big Horn regions: for citizen, emigrant and tourist. p. 74. Chicago: Knight A Leonard. Retrieved from https://babel.hathitrust.org/cgi/pt?id=uc1.31822031033079&view=1up&seq=80.
+
+Note: I'm not sure the publisher on (Ellis, 1744) is correct.
 
 ## Browse
 
@@ -298,7 +329,6 @@ Sources:
 
 # Words to Look Up
 
-- broadcast
 - IP address
 - domain name
 - internet

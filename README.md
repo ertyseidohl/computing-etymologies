@@ -17,3 +17,7 @@ A lot of the etymologies of computer terms are listed incorrectly once, and then
 Especially for modern technological terms, Etymonline, which doesn't list sources for its etymologies, has been found to have errors. Even the OED has an error (see "Surf"). However, for ancient etymologies, well-trusted dictionaries are probably ok.
 
 When you're researching a word, keep checking the sources until you get to the actual usage, if possible!
+
+## Notes
+
+- Internal hyperlinks (to other words) need to be lowercase to work.
