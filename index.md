@@ -270,7 +270,15 @@ Sources:
 Sources:
 - Marx, L. (2010). Technology: The Emergence of a Hazardous Concept. Technology and Culture, 51(3), 561–577. doi: 10.1353/tech.2010.0009. Retrieved from http://faculty.georgetown.edu/irvinem/theory/Marx-TC-2010-51.pdf
 
+## This
+
+(Incomplete)
+
+Potential lead: https://cs.stackexchange.com/questions/121528/what-is-the-earliest-use-of-the-this-keyword-in-any-programming-language?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
+
 ## Troll
+
+(Incomplete)
 
 > Lemme see what I can do.  Maybe after I post it, we could go trolling some more and see what happens. (Chan, 1992)
 
