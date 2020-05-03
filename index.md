@@ -78,6 +78,21 @@ Source: [Wikipedia: Cypher](https://en.wikipedia.org/wiki/Cipher#Etymology)
 
 Note: The paper Ibrahim A. Al-Kadi's "Cryptography and Data Security: Cryptographic Properties of Arabic" may have more information, but I don't have access.
 
+## Domain (Domain Name)
+
+The concept specifically called a "Domain Name" was introduced to ARPANET in November 1983 in RFC882 (Mockapetris, 1983).
+
+However, RFC799 in September 1981 introduced the idea of "Internet Name Domains" (Mills, 1981).
+
+
+Sources:
+
+- Mills, D. L. (1981, September). Internet name domains. Retrieved from https://tools.ietf.org/html/rfc799
+
+- Mockapetris, P. (1983, November). Domain names: Concepts and facilities. Retrieved from https://tools.ietf.org/html/rfc882
+
+
+
 ## Electrician
 
 (Incomplete)
@@ -338,7 +353,6 @@ Sources:
 # Words to Look Up
 
 - IP address
-- domain name
 - internet
 - world wide web
 - Flip-flop
@@ -387,5 +401,6 @@ Sources:
 - broker
 - security controls
 - tilde
-- flaming (flame war)
 - bless
+- client
+- host
