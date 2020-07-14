@@ -1,6 +1,12 @@
+[![Discord Chat](https://img.shields.io/discord/732473346867986442.svg)](https://discord.gg/uN2AAr8)
+
 # Computing Etymologies
 
 Compilation of Etymologies of Computing Terms
+
+## Running Locally
+
+This uses github pages, so you can follow the github pages [local testing instructions](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) to get set up.
 
 ## Contributing
 

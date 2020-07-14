@@ -5,6 +5,8 @@ title: Computing Etymologies
 
 # Computing Etymologies
 
+Contribute on [Github](https://github.com/ertyseidohl/computing-etymologies) \| [About](./about.md)
+
 ## Blog
 
 From web+blog &rarr; weblog &rarr; blog. See [Weblog](#weblog)
@@ -404,3 +406,4 @@ Sources:
 - bless
 - client
 - host
+- signal
