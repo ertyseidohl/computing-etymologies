@@ -15,6 +15,7 @@ This uses github pages, so you can follow the github pages [local testing instru
 - It's ok to have "Note: Needs more research".
 - Use APA format for sources.
 - This repo has a Code of Conduct: the [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+0 If you're not sure about something, feel free to open an issue or ask on [the Discord](https://discord.gg/uN2AAr8).
 
 ## Primary Sources
 
