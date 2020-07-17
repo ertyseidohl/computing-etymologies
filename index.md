@@ -146,6 +146,37 @@ Sources:
 
 Note: The paper John Durham Peter's "Information: Notes Toward a Critical History", may have more information, but I don't have access.
 
+## Internet
+
+(Incomplete)
+
+From Inter + Net (Network). Inter from Old French entre- or Latin inter ‘between, among’ (Oxford). See [Network](#network).
+
+Orignally called "Internetwork" in the 1974 paper "A Protocol for Packet Network Intercommunication" (Cerf &amp Kahn).
+
+A competing term coined by Pouzin in his 1974 paper "A Proposal for Interconnecting Packet Switching Networks" was "catenet", which was in use through the early 1980s (Postel, 1981).
+
+Sources:
+
+- Cerf, V. G., &amp; Kahn, R. E. (1974, May). A Protocol for Packet Network Intercommunication. IEEE Transactions on Communications, Com-22(5). doi:10.21236/ada634240
+- Cerf, V. G. (1978, July). THE CATENET MODEL FOR INTERNETWORKING. Retrieved July 17, 2020, from https://www.rfc-editor.org/ien/ien48.txt
+- Internet: Definition of Internet by Oxford Dictionary on Lexico.com. (n.d.). Retrieved July 17, 2020, from https://www.lexico.com/en/definition/internet
+- Postel, J. (Ed.). (1981, September). Internet Protocol. Retrieved July 17, 2020, from https://tools.ietf.org/html/rfc791
+
+## Network.
+
+The earliest occurrence of "Network" is in the 1560 Geneva Bible (Exodus xxvii 4) (Briggs, 2004).
+
+See [Briggs, 2004](http://keithbriggs.info/network.html) for a thorough breakdown of the etymology. From that source:
+
+> According to the OED, the word is recorded in 1658 referring to reticulate structures in animals and plants. From 1839 it is used to refer to rivers and canals, and from 1869 to railways. In 1883 a distribution network of electrical cables is first referred to, and in 1914 a wireless broadcasting network.
+
+Sources:
+
+- Exodus xxvii 4. (1560). In The 1560 Geneva Bible. Retrieved From http://www.genevabible.org/files/Geneva_Bible/Old_Testament/Exodus.pdf
+- Briggs, K. (2004). Etymology of the words network, net, and work. Retrieved July 17, 2020, from http://keithbriggs.info/network.html
+
+
 ## Open Source
 
 First used in regard to computing by Christine Peterson in 1998.
@@ -355,7 +386,6 @@ Sources:
 # Words to Look Up
 
 - IP address
-- internet
 - world wide web
 - Flip-flop
 - the 'N' gates (Nand, Nor, Not, XNor)
