@@ -383,6 +383,17 @@ Sources:
 Sources:
 - Cunningham, Ward. “Correspondence on TheEtymology of Wiki.” Cunningham & Cunningham, Inc., Nov. 2003, http://c2.com/doc/etymology.html.
 
+
+## Whois
+
+One of the first utility services on the ARPANET:
+
+> [WHOIS] was probably one of our biggest servers. We stopped putting out the directory, which was essentially the network phonebook, and we put all that [information] under [WHOIS]. So you could say “Whois Jake Feinler,” and it would come back and give you my name, address, email address, affiliation on the net, that kind of thing.” Or you could say “Who is host such and such,” and it would tell you its host name, host address, who was the host administrator, that kind of thing. So we tried to design servers] for what we called episodic users. Somebody might use the NIC a lot or they might use it every six months. We wanted [our programs] to be something that you could just walk up [to], use, and walk away. You didn’t have to have a big learning curve. So most of our servers were along those lines.
+
+Source: 
+- Weber, M. (2009). Oral History of Elizabeth (Jake) Feinler. Retrieved from https://archive.computerhistory.org/resources/access/text/2013/05/102702199-05-01-acc.pdf
+- Janet, A. (2002). Oral History: Elizabeth "Jake" Feinler. Retrived from https://ethw.org/Oral-History:Elizabeth_%22Jake%22_Feinler
+
 # Words to Look Up
 
 - IP address
