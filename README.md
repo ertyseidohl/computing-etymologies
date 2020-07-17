@@ -8,6 +8,10 @@ Compilation of Etymologies of Computing Terms
 
 This uses github pages, so you can follow the github pages [local testing instructions](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) to get set up.
 
+## Words to Look Up
+
+The list of words that need attention are listed as Github issues. Please feel free to add new issues for words you're interested in, or drop sources into issues that you have information about!
+
 ## Contributing
 
 - Please feel free to submit PRs!
