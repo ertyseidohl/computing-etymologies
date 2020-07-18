@@ -93,14 +93,6 @@ Sources:
 
 - Mockapetris, P. (1983, November). Domain names: Concepts and facilities. Retrieved from https://tools.ietf.org/html/rfc882
 
-
-
-## Electrician
-
-(Incomplete)
-
-Note: There may have been a time when an "electrician" was someone who performed stage tricks with electricity (levitating with static elec, etc). Need to investigate further. [Relevant Tweet by @pmg](https://mobile.twitter.com/pmg/status/1110289346534342656)
-
 ## Electricity
 
 (Incomplete)
@@ -121,12 +113,6 @@ Sources:
 
 Note: would like to further explore this one.
 
-## Hacker
-
-(Incomplete)
-
-Note: First recorded usage of "Hacker" in the tech sense was in 1963. See [this manybutfinite.com blog post](https://manybutfinite.com/post/first-recorded-usage-of-hacker/). Need to investigate further.
-
 ## Information
 
 (Incomplete)
@@ -143,8 +129,6 @@ In their original form, these definitions read as follows:
 Sources:
 
 - Holmes, N. (2001). The great term robbery [computer jargon]. Computer, 34(5), 94–96. doi: 10.1109/2.920619. Retrieved from https://eprints.utas.edu.au/1957/1/Cm1My.pdf
-
-Note: The paper John Durham Peter's "Information: Notes Toward a Critical History", may have more information, but I don't have access.
 
 ## Internet
 
@@ -163,7 +147,7 @@ Sources:
 - Internet: Definition of Internet by Oxford Dictionary on Lexico.com. (n.d.). Retrieved July 17, 2020, from https://www.lexico.com/en/definition/internet
 - Postel, J. (Ed.). (1981, September). Internet Protocol. Retrieved July 17, 2020, from https://tools.ietf.org/html/rfc791
 
-## Network.
+## Network
 
 The earliest occurrence of "Network" is in the 1560 Geneva Bible (Exodus xxvii 4) (Briggs, 2004).
 
@@ -317,12 +301,6 @@ Sources:
 
 Sources:
 - Marx, L. (2010). Technology: The Emergence of a Hazardous Concept. Technology and Culture, 51(3), 561–577. doi: 10.1353/tech.2010.0009. Retrieved from http://faculty.georgetown.edu/irvinem/theory/Marx-TC-2010-51.pdf
-
-## This
-
-(Incomplete)
-
-Potential lead: https://cs.stackexchange.com/questions/121528/what-is-the-earliest-use-of-the-this-keyword-in-any-programming-language?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
 
 ## Troll
 
