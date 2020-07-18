@@ -392,3 +392,24 @@ One of the first utility services on the ARPANET:
 Sources:
 - Weber, M. (2009). Oral History of Elizabeth (Jake) Feinler. Retrieved from https://archive.computerhistory.org/resources/access/text/2013/05/102702199-05-01-acc.pdf
 - Janet, A. (2002). Oral History: Elizabeth "Jake" Feinler. Retrived from https://ethw.org/Oral-History:Elizabeth_%22Jake%22_Feinler
+
+
+## World Wide Web
+
+Berners-Lee and Cailliau proposed a HyperText project in November 1990 called WorldWideWeb (Berners-Lee & Cailliau, 1990).
+
+The idea of calling this a "World-Wide" web may have come from earlier HyperText systems which defined multiple "webs" of information which could be searched:
+
+>  They also propose a construct called a web to implement context-dependent link display. Every link belongs to one or more webs and is only visible when one of those webs is active. To view documents with the links that belong to a particular web, a user opens a web and then opens one or more of its documents. (Conklin, 1987).
+
+This idea of a "web" of information goes further back, to at least Nelson's 1972 Xanadu project, an earlier HyperText implementation (work started in 1960), which describes a "File Web&tm;":
+
+> The File Web &tm; is a map indicating what (labelled) files are present in the system, and which are collaterated. (Nelson, 1974).
+
+Note that although the work was published in 1974, Nelson includes a 1972 copyright on the "File Web" idea.
+
+Sources:
+
+- Berners-Lee, T., &amp; Cailliau, R. (1990, November 12). WorldWideWeb: Proposal for a HyperText Project. Retrieved July 18, 2020, from https://www.w3.org/Proposal.html
+- Conklin, J. (1987, October). HyperText: An Introduction and Survey. Computer, 20(9), 17-41. doi:10.1109/MC.1987.1663693
+- Nelson, T. H. (1974). Getting Around. In Computer lib ; Dream machines (p. 54). Self Published.
