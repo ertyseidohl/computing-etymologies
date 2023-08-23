@@ -17,7 +17,7 @@ The list of words that need attention are listed as Github issues. Please feel f
 - It's ok to have "Note: Needs more research".
 - Use APA 6 format for sources. (Would love for someone to update this to APA7.)
 - This repo has a Code of Conduct: the [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-0 If you're not sure about something, feel free to open an issue or ask on [the Discord](https://discord.gg/uN2AAr8).
+0 If you're not sure about something, feel free to open an issue or ask the contributors!
 
 ## Primary Sources
 
