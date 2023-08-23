@@ -1,5 +1,3 @@
-[![Discord Chat](https://img.shields.io/discord/732473346867986442.svg)](https://discord.gg/uN2AAr8)
-
 # Computing Etymologies
 
 Compilation of Etymologies of Computing Terms
